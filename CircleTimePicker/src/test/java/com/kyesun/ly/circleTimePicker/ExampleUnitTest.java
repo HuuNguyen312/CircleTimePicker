@@ -1,4 +1,4 @@
-package com.kyesun.ly.CircleTimePicker;
+package com.kyesun.ly.circleTimePicker;
 
 import org.junit.Test;
 

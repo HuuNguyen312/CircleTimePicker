@@ -1,4 +1,4 @@
-package com.kyesun.ly.CircleTimePicker.widget;
+package com.kyesun.ly.circleTimePicker.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -18,8 +18,8 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.kyesun.ly.CircleTimePicker.R;
-import com.kyesun.ly.CircleTimePicker.callback.OnTimeChangeListener;
+import com.kyesun.ly.circleTimePicker.R;
+import com.kyesun.ly.circleTimePicker.callback.OnTimeChangeListener;
 
 import static android.os.Build.VERSION_CODES.M;
 
